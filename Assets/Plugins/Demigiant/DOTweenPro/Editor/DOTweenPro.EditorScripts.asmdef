@@ -1,0 +1,14 @@
+{
+	"name": "DOTweenPro.EditorScripts",
+	"references": [
+		"Unity.TextMeshPro",
+		"DOTween.Modules",
+		"DOTweenPro.Scripts",
+		"UnityEditor.TestRunner",
+		"UnityEngine.TestRunner"
+	],
+	"includePlatforms": [
+		"Editor"
+	],
+	"autoReferenced": false
+}
