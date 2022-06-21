@@ -2,6 +2,8 @@
 // PCG random-number generator
 // see https://www.pcg-random.org/ for more info
 
+using UnityS.Mathematics;
+
 public struct PCG
 {
     private ulong state;
@@ -47,7 +49,7 @@ public struct PCG
     // [min, max]
     public int Int32RangeInclusive(int minInclusive, int maxInclusive)
     {
-        return (Int32Positive() % (maxInclusive + 1 - minInclusive)) + minInclusive;
+        return (math.abs(Int32Positive())  % (maxInclusive + 1 - minInclusive)) + minInclusive;
     }
 
     // [0, max)

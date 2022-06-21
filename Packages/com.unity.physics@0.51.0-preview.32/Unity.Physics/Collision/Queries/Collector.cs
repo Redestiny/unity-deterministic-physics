@@ -2,7 +2,7 @@ using System.Runtime.CompilerServices;
 using Unity.Collections;
 using Unity.Collections.LowLevel.Unsafe;
 using Unity.Entities;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using UnityEngine.Assertions;
 using static Unity.Physics.Math;
 

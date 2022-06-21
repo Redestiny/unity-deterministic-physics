@@ -1,6 +1,6 @@
 using System.Runtime.CompilerServices;
 using System.Diagnostics;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 
 namespace Unity.Physics
 {

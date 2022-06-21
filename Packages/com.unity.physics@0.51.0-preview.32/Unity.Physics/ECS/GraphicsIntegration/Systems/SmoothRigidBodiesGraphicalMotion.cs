@@ -3,9 +3,9 @@ using Unity.Burst;
 using Unity.Collections;
 using Unity.Entities;
 using Unity.Jobs;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using Unity.Physics.Systems;
-using Unity.Transforms;
+using UnityS.Transforms;
 
 namespace Unity.Physics.GraphicsIntegration
 {

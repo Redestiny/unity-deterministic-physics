@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using Unity.Collections;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using UnityEngine.Assertions;
 using Unity.Collections.LowLevel.Unsafe;
 using static Unity.Physics.Math;

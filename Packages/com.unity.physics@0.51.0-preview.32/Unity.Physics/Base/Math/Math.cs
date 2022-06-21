@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using System.Runtime.CompilerServices;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using UnityEngine.Assertions;
 
 namespace Unity.Physics
@@ -247,7 +247,7 @@ namespace Unity.Physics
             return new quaternion(new float4(axis * sinCosHalfAngle.x, sinCosHalfAngle.y));
         }
 
-        // Note: taken from Unity.Animation/Core/MathExtensions.cs, which will be moved to Unity.Mathematics at some point
+        // Note: taken from Unity.Animation/Core/MathExtensions.cs, which will be moved to UnityS.Mathematics at some point
         //       after that, this should be removed and the Mathematics version should be used
         #region toEuler
         static float3 toEuler(quaternion q, math.RotationOrder order = math.RotationOrder.Default)

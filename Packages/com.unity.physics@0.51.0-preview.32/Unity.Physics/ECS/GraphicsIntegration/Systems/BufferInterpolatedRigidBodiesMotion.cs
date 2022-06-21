@@ -4,9 +4,9 @@ using Unity.Collections;
 using Unity.Collections.LowLevel.Unsafe;
 using Unity.Entities;
 using Unity.Jobs;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using Unity.Physics.Systems;
-using Unity.Transforms;
+using UnityS.Transforms;
 
 namespace Unity.Physics.GraphicsIntegration
 {

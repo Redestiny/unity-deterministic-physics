@@ -2,9 +2,9 @@ using System;
 using Unity.Collections;
 using Unity.Collections.LowLevel.Unsafe;
 using Unity.Entities;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using Unity.Physics.Extensions;
-using Unity.Transforms;
+using UnityS.Transforms;
 
 namespace Unity.Physics
 {

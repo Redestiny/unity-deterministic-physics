@@ -1,6 +1,6 @@
 using System;
 using Unity.Entities;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using UnityEngine.Assertions;
 using static Unity.Physics.BoundingVolumeHierarchy;
 using static Unity.Physics.Math;

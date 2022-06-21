@@ -5,9 +5,10 @@
         "Unity.Burst",
         "Unity.Collections",
         "Unity.Entities",
-        "Unity.Mathematics",
+        "sfloat",
+        "smath",
         "Unity.Properties",
-        "Unity.Transforms",
+        "transforms",
         "Unity.Jobs",
         "Unity.DataFlowGraph"
     ],

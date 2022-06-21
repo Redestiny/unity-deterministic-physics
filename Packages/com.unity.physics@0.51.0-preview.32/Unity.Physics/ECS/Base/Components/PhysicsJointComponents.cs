@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using Unity.Collections;
 using Unity.Entities;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using Unity.Physics.Extensions;
 using Unity.Properties;
 using FloatRange = Unity.Physics.Math.FloatRange;

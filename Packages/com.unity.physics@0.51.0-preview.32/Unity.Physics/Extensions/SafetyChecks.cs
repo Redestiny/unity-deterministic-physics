@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using Unity.Collections;
 using Unity.Entities;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 
 [assembly: RegisterGenericComponentType(typeof(Unity.Physics.DummyColliderFakesComponent<Unity.Physics.Collider>))]
 [assembly: RegisterGenericComponentType(typeof(Unity.Physics.DummyColliderFakesComponent<Unity.Physics.BoxCollider>))]

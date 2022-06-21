@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using Unity.Burst;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using static Unity.Physics.Math;
 
 namespace Unity.Physics

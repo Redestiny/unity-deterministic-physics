@@ -2,7 +2,7 @@ using Unity.Burst;
 using Unity.Collections;
 using Unity.Collections.LowLevel.Unsafe;
 using Unity.Jobs;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using UnityEngine.Assertions;
 using static Unity.Physics.Math;
 

@@ -1,7 +1,7 @@
 using System;
 using Unity.Collections;
 using Unity.Collections.LowLevel.Unsafe;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using Unity.Entities;
 using UnityEngine.Assertions;
 

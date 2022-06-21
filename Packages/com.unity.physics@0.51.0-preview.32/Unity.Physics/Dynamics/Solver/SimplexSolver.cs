@@ -1,5 +1,5 @@
 using Unity.Collections;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using UnityEngine.Assertions;
 
 namespace Unity.Physics

@@ -1,6 +1,6 @@
 using System.Runtime.CompilerServices;
 using Unity.Burst;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using UnityEngine.Assertions;
 using static Unity.Physics.Math;
 

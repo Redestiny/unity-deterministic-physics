@@ -1,7 +1,7 @@
 using System;
 using Unity.Collections;
 using Unity.Jobs;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 
 namespace Unity.Physics
 {

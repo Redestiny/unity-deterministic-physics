@@ -1,5 +1,5 @@
 using System;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 
 namespace Unity.Physics
 {

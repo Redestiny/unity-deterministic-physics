@@ -1,8 +1,8 @@
 using System.Runtime.CompilerServices;
 using Unity.Collections;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using Unity.Physics.Extensions;
-using Unity.Transforms;
+using UnityS.Transforms;
 
 namespace Unity.Physics.GraphicsIntegration
 {

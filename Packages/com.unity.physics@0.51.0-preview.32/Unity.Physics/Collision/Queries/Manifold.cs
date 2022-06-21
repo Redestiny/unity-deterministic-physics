@@ -2,7 +2,7 @@ using System;
 using Unity.Burst;
 using Unity.Collections;
 using Unity.Collections.LowLevel.Unsafe;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using static Unity.Physics.Math;
 
 namespace Unity.Physics

@@ -1,0 +1,14 @@
+{
+    "name": "transforms",
+    "references": [
+        "Unity.Entities",
+        "Unity.Collections",
+        "Unity.Burst",
+        "Unity.Jobs",
+        "sfloat",
+        "smath"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

@@ -5,7 +5,7 @@ using Unity.Collections;
 using Unity.Entities;
 using Unity.Collections.LowLevel.Unsafe;
 using Unity.Jobs;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using static Unity.Physics.Math;
 using Unity.Jobs.LowLevel.Unsafe;
 

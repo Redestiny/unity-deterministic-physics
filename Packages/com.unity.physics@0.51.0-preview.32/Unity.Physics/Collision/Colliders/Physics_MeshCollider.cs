@@ -1,6 +1,6 @@
 using Unity.Collections;
 using Unity.Collections.LowLevel.Unsafe;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using Unity.Entities;
 using Unity.Burst;
 

@@ -1,4 +1,4 @@
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using FloatRange = Unity.Physics.Math.FloatRange;
 
 namespace Unity.Physics.Extensions

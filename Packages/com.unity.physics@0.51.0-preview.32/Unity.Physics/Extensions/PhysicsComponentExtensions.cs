@@ -1,5 +1,5 @@
-using Unity.Mathematics;
-using Unity.Transforms;
+using UnityS.Mathematics;
+using UnityS.Transforms;
 
 namespace Unity.Physics.Extensions
 {

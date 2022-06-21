@@ -3,8 +3,8 @@ using Unity.Collections;
 using Unity.Collections.LowLevel.Unsafe;
 using Unity.Entities;
 using Unity.Jobs;
-using Unity.Mathematics;
-using Unity.Transforms;
+using UnityS.Mathematics;
+using UnityS.Transforms;
 using UnityEngine.Assertions;
 
 namespace Unity.Physics.Systems

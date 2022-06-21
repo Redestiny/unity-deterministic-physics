@@ -1,6 +1,6 @@
 using Unity.Assertions;
 using Unity.Entities;
-using Unity.Mathematics;
+using UnityS.Mathematics;
 using static Unity.Physics.Math;
 
 namespace Unity.Physics
